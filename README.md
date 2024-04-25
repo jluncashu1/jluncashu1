@@ -3,5 +3,5 @@
 - 🚀 I thrive in collaborative environments and love working with talented teams to create impactful and innovative solutions.
 
 Here are my live projects: 
-  https://streaming-app-seven.vercel.app/
-  https://mwitter-alpha.vercel.app/
+ - https://streaming-app-seven.vercel.app/ \n
+ - https://mwitter-alpha.vercel.app/
