@@ -4,17 +4,17 @@
 
 Here are my live projects: 
 
-1. Booking App
+1. [Booking App](https://eugen-booking-app.vercel.app/)
 
  - Description: A full-featured booking application that allows users to book services, add basements for booking, add images by link or upload directly from personal device and editing existing ones beeing logged into their account.
  - Technologies: React, Express, MongoDb, Node.JS.
    
-2. Mwitter
+2. [Mwitter](https://mwitter-alpha.vercel.app/)
 
  - Description: A social media platform similar to Twitter, where users can post messages, follow others, and engage with content.
  - Technologies: Next.js, MongoDb, Prisma, Typescript.
 
-3. Streaming App
+3. [Streaming App](https://streaming-app-seven.vercel.app/)
 
  - Description: A streaming application that provides a user-friendly interface for browsing and watching videos.
  - Technologies: Next.js, MongoDb, Prisma, Typescript.
