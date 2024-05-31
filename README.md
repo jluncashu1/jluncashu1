@@ -3,5 +3,18 @@
 - 🚀 I thrive in collaborative environments and love working with talented teams to create impactful and innovative solutions.
 
 Here are my live projects: 
- - https://streaming-app-seven.vercel.app/
- - https://mwitter-alpha.vercel.app/
+
+1. Booking App
+
+ - Description: A full-featured booking application that allows users to book services, add basements for booking, add images by link or upload directly from personal device and editing existing ones beeing logged into their account.
+ - Technologies: React, Express, MongoDb, Node.JS.
+   
+2. Mwitter
+
+ - Description: A social media platform similar to Twitter, where users can post messages, follow others, and engage with content.
+ - Technologies: Next.js, MongoDb, Prisma, Typescript.
+
+3. Streaming App
+
+ - Description: A streaming application that provides a user-friendly interface for browsing and watching videos.
+ - Technologies: Next.js, MongoDb, Prisma, Typescript.
