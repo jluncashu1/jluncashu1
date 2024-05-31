@@ -9,7 +9,7 @@ Here are my live projects:
  - Description: A full-featured booking application that allows users to book services, add basements for booking, add images by link or upload directly from personal device and editing existing ones beeing logged into their account.
  - Technologies: React, Express, MongoDb, Node.JS.
    
-2. [Mwitter](https://mwitter-alpha.vercel.app/)
+2. [Social App](https://mwitter-alpha.vercel.app/)
 
  - Description: A social media platform similar to Twitter, where users can post messages, follow others, and engage with content.
  - Technologies: Next.js, MongoDb, Prisma, Typescript.
