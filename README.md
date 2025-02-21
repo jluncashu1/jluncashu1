@@ -4,17 +4,18 @@
 
 Here are my live projects: 
 
-1. [Booking App](https://eugen-booking-app.vercel.app/)
+1. [Real Time Chat App](https://eugen-chat-app.onrender.com/)
+
+ - Description: A real-time chat application that allows users to send and receive messages instantly.
+ - Technologies: React, Express, Postgres, Node.JS, Socket.io
+
+2. [Booking App](https://eugen-booking-app.vercel.app/)
 
  - Description: A full-featured booking application that allows users to book services, add basements for booking, add images by link or upload directly from personal device and editing existing ones beeing logged into their account.
  - Technologies: React, Express, MongoDb, Node.JS.
    
-2. [Social App](https://mwitter-alpha.vercel.app/)
+3. [Social App](https://mwitter-alpha.vercel.app/)
 
  - Description: A social media platform similar to Twitter, where users can post messages, follow others, and engage with content.
  - Technologies: Next.js, MongoDb, Prisma, Typescript.
 
-3. [Streaming App](https://streaming-app-seven.vercel.app/)
-
- - Description: A streaming application that provides a user-friendly interface for browsing and watching videos.
- - Technologies: Next.js, MongoDb, Prisma, Typescript.
