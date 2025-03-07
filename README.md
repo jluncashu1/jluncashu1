@@ -5,7 +5,7 @@
 Here are my live projects: 
 
 1. [Real Time Chat App](https://eugen-chat-app.onrender.com/)
-
+ ⚠️ !!! Please consider that this app is deployed on Render free plan, thats why it will take about 30 seconds for app to start !!! ⚠️
  - Description: A real-time chat application that allows users to send and receive messages instantly.
  - Technologies: React, Express, Postgres, Node.JS, Socket.io
 
